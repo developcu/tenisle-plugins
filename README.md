@@ -3,7 +3,7 @@
 Install in Claude Code:
 
 ```
-/plugin marketplace add <github-user>/tenisle-plugins
+/plugin marketplace add developcu/tenisle-plugins
 /plugin install tenisle@tenisle
 ```
 

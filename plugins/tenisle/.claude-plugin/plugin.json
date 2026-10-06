@@ -1,0 +1,10 @@
+{
+  "name": "tenisle",
+  "version": "0.1.0",
+  "description": "Use Tenisle with Claude: check player stats, match history and head-to-head records, and enter or approve league match scores",
+  "author": {
+    "name": "Yasin DEMİR"
+  },
+  "homepage": "https://tenisle.com",
+  "keywords": ["tenisle", "tennis", "league", "tournament", "scores", "stats"]
+}
